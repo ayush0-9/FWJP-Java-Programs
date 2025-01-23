@@ -1,1 +1,1 @@
-This repo is for my daily exercise programs done in during my Java course.
+This repo is for my daily exercise of programs done during my Java course.
